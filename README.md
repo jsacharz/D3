@@ -81,4 +81,3 @@ Your final product will be assessed on the following metrics:
 ### Copyright
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
-# D3
